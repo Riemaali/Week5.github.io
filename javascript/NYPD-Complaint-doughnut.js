@@ -5,7 +5,7 @@
 			var w = 300;
 			var h = 300;
 
-			var dataset = [ 5, 10, 20, 45, 6, 25 ];
+			var dataset = [ 19.8155,   29.8751,  23.8685,  4.7610,  21.6799 ];
 
 			var outerRadius = w / 2;
 			var innerRadius = w / 3;
